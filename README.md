@@ -8,12 +8,12 @@ implementation to closing the project.
 - The project is a multiplayer web-based game aimed at teaching core software engineering concepts
 
 ## What we learned
-- *Kanban Principles in Practice:* Developed a deeper understanding of Agile methodologies, particularly Kanban, including workflow visualization, limiting WIP, managing flow, and fostering team collaboration.
-- *Gamification for Education:* Explored the potential of gamified learning to simplify complex topics and improve user engagement, creating an interactive multiplayer game to teach first-year engineering students.
-- *Iterative Development:* Learned the value of prototyping and iterative refinement, transitioning from free movement to grid-based mechanics for better user experience and gameplay consistency.
-- *Architectural Decision-Making:* Gained insights into selecting appropriate architectural models (client-server) and communication protocols (WebSockets and HTTP hybrid) to balance scalability, performance, and real-time responsiveness.
-- *Modularity and Maintainability:* Improved client-side architecture by adopting a modular approach for state management and separating rendering, input handling, and communication tasks.
-- *User-Centric Design:* Identified the importance of intuitive UI and clear instructions, recognizing areas for improvement based on user feedback, such as distinguishing game elements and simplifying navigation.
+- **Kanban Principles in Practice:** Developed a deeper understanding of Agile methodologies, particularly Kanban, including workflow visualization, limiting WIP, managing flow, and fostering team collaboration.
+- **Gamification for Education:** Explored the potential of gamified learning to simplify complex topics and improve user engagement, creating an interactive multiplayer game to teach first-year engineering students.
+- **Iterative Development:** Learned the value of prototyping and iterative refinement, transitioning from free movement to grid-based mechanics for better user experience and gameplay consistency.
+- **Architectural Decision-Making:** Gained insights into selecting appropriate architectural models (client-server) and communication protocols (WebSockets and HTTP hybrid) to balance scalability, performance, and real-time responsiveness.
+- **Modularity and Maintainability:** Improved client-side architecture by adopting a modular approach for state management and separating rendering, input handling, and communication tasks.
+- **User-Centric Design:** Identified the importance of intuitive UI and clear instructions, recognizing areas for improvement based on user feedback, such as distinguishing game elements and simplifying navigation.
 
 ## Objective
 
