@@ -23,7 +23,7 @@ implementation to closing the project.
 - The game incorporates real-world agile challenges like random events and prioritising tasks.
 
 ## Demo
-![Devastation demo]('/demo.gif')
+![Devastation demo](demo.gif)
 
 ## Team members and Stakeholders 
 
